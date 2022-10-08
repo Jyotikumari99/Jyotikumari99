@@ -1,5 +1,5 @@
 
-[![MasterHead](https://miro.medium.com/max/1400/0*FGD6BUzzZs1VJLuY.gif)
+![MasterHead](https://gaper.io/wp-content/uploads/2022/02/mern-stack.webp  )
 <h1 align="center">Hi 👋, I'm Jyoti Kumari</h1>
 <h3 align="center">A passionate Full Stack developer from India</h3>
 
