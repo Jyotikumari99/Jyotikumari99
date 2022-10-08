@@ -1,13 +1,13 @@
 
 ![MasterHead](https://gaper.io/wp-content/uploads/2022/02/mern-stack.webp  )
 <h1 align="center">Hi 👋, I'm Jyoti Kumari</h1>
-<h3 align="center">A passionate Full Stack developer from India</h3>
+<h3 align="center">A passionate Full Stack Developer from India</h3>
 
 <img align="right" alt="coding" width="400" src="https://c.tenor.com/-UygBh3nnfEAAAAC/coding.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jyotikumari99&label=Profile%20views&color=0e75b6&style=flat" alt="jyotikumari99" /> </p>
 
-- 🌱 I’m currently learning **React **
+- 🌱 I’m currently learning **React**
 
 - 💬 Ask me about **MERN**
 
